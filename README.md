@@ -13,9 +13,9 @@ My name is Raymond and I'm a Software Engineer from the San Francisco Bay Area!
 
  💻  I’m currently working on full-stack web applications and brushing up on Python.
 
- 😄 Pronouns: he/him
-
  ⚡  In my free time, I love exercising, gaming, reading manga/manhua/manhwa, and enjoying great food
+
+ 😄 Pronouns: he/him
 
 
 ### Let's connect!
